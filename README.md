@@ -10,3 +10,5 @@ TA Logan M. provided assistance with creating empty strings and arrays, as well 
 ##URL
 
 Please see webpage at https://jax-o.github.io/js-password-generator/
+![screencapture-jax-o-github-io-js-password-generator-2021-09-14-16_00_12](https://user-images.githubusercontent.com/88553985/133325766-5e5778c8-0b62-4cc6-a865-9ac013d207d1.png)
+
