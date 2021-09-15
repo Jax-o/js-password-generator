@@ -1,11 +1,15 @@
 # js-password-generator
 ##Description
 
-This password generator was created using JavaScript, HTML, CSS. Through creating functions, arrays, strings, conditionals, Booleans, and using the concat method, for loops, and the math property in js, this website, when the generate password button is clicked will generate a random password based on the users selected criteria including the length of the password, and one of which password criteria includes, uppercase characters, lowercase characters, numbers, and special characters.
+This password generator was created using JavaScript, HTML, CSS. This web application contains functions, arrays, strings, conditionals, Booleans, the concat method, for loops, and uses the math property in js which produces the functionaility of the generate password button. When the user 'clicks' the generate password button the web application will generate a random password based on the users selected criteria including the length of the password, and at least one critera of uppercase characters, lowercase characters, numbers, and special characters.
 
 ##Credits
 
-TA Logan M. provided assistance with creating empty strings and arrays, as well as the concat method, the for loop including the math property in js
+MDN Web Docs https://developer.mozilla.org
+W3schools https://www.w3schools.com/js/
+TA Logan M.
+
+
 
 ##URL
 
